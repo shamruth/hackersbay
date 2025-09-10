@@ -1,6 +1,6 @@
 # Welcome to HackersBay Club 🌐
 
-![HackersBay Logo](https://via.placeholder.com/600x200?text=HackersBay+Club)
+![HackersBay Logo](logo.jpg)
 
 ---
 
