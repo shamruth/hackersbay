@@ -1,4 +1,6 @@
-# Welcome to HackersBay Club <img src="logo.jpg" alt="HackersBay Logo" width="100">
+# Welcome to HackersBay Club 
+
+![Hackersbay logo](logo.jpg)
 
 ---
 
