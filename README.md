@@ -1,6 +1,4 @@
-# Welcome to HackersBay Club 🌐
-
-<img src="assets/images/logo.png" alt="HackersBay Logo" width="300">
+# Welcome to HackersBay Club <img src="logo.png" alt="HackersBay Logo" width="300">
 
 ---
 
